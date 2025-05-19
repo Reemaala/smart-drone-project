@@ -45,8 +45,10 @@ The Jupyter notebook contains:
 - Categories: crowd_dense, crowd_medium, crowd_low, fire, fainting
 - Preprocessing, prediction, and API communication
 
-The notebook used for hazard detection:
-[hazard_detection_model.ipynb](hazard_detection_model.ipynb)
+Click below to explore the notebook used for hazard classification:
+
+👉 [hazard_detection_model.ipynb](hazard_detection_model.ipynb)
+
 ---
 
 ## How to Use
