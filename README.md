@@ -38,13 +38,15 @@ The mobile app provides:
 
 ---
 
-## AI Model (`hazerd_model_cleaned.ipynb`)
+## AI Model (`hazard_detection_model.ipynb`)
 
 The Jupyter notebook contains:
 - Image classification logic
 - Categories: crowd_dense, crowd_medium, crowd_low, fire, fainting
 - Preprocessing, prediction, and API communication
 
+The notebook used for hazard detection:
+[hazard_detection_model.ipynb](hazard_detection_model.ipynb)
 ---
 
 ## How to Use
