@@ -14,7 +14,7 @@ This project integrates a Flutter mobile application with an AI-based hazard det
 - Nareman Turkistani
 
 Effat University – Cybersecurity Majors  
-Internship at Pixiliza – Digital Technologies
+
 
 ---
 
